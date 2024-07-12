@@ -1,0 +1,7 @@
+--> Create a nextjs app
+
+--> run : $ npm run dev
+
+--> Delete the 'app' folder and create the root of your project 'page.tsx'
+
+--> run : $ npm run dev
